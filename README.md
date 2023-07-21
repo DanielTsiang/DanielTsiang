@@ -24,21 +24,14 @@ All of my projects are available at [danieltsiang.github.io](https://danieltsian
 
 ---
 <div align="center">
+  
+<img src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/eb437652-2038-4b2c-ba74-cb424152e69f.svg" alt="Coding Activity Table">
+<br><br>
+<img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/34b91428-5fec-4008-aac3-12bed7b8b2cf.svg" alt="Languages">
+<br><br>
 
-<!--START_SECTION:waka-->
-
-```txt
-From: 21 June 2023 - To: 21 July 2023
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en) &nbsp;
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en)
+<br><br>
 [![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=17330029)](https://stackoverflow.com/users/17330029)
 
 </div>
