@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Daniel Tsiang</h1>
 <h3 align="center">A passionate software engineer based in London, UK</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltsiang&label=Profile%20views&color=0e75b6&style=flat" alt="danieltsiang" /> </p>
+[![Profile views](https://komarev.com/ghpvc/?username=danieltsiang&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/DanielTsiang)
+[![Buymeacoffee](https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat&logo=buymeacoffee)](https://www.buymeacoffee.com/dantsiang8)
 
-- 👨🏻‍💻 All of my projects are available at [https://danieltsiang.github.io/](https://danieltsiang.github.io/)
+<h4> 👨🏻‍💻 Portfolio: </h4> 
+
+All of my projects are available at [danieltsiang.github.io](https://danieltsiang.github.io)
 
 <h4> 💻  Most days I use: </h4>
 
@@ -18,11 +21,6 @@
 <h4> 🌱 Some other things I'm learning: </h4>
 
 ![TypeScript](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logoColor=white)
-
----
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dantsiang8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dantsiang8" /></a></p><br><br>  
 
 ---
 
