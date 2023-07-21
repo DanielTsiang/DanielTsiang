@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daniel Tsiang</h1>
+<h3 align="center">A passionate software engineer based in London, UK</h3>
 
-<!--
-**DanielTsiang/DanielTsiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltsiang&label=Profile%20views&color=0e75b6&style=flat" alt="danieltsiang" /> </p>
 
-Here are some ideas to get you started:
+- 👨🏻‍💻 All of my projects are available at [https://danieltsiang.github.io/](https://danieltsiang.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4> 💻  Most days I use: </h4>
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+<h4> 🌱 Some other things I'm learning: </h4>
+
+![TypeScript](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logoColor=white)
+
+---
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/dantsiang8"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/dantsiang8" /></a></p><br><br>  
+
+---
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltsiang&show_icons=true&locale=en&layout=compact" alt="danieltsiang" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&locale=en" alt="danieltsiang" /></p>
+
+<p>&nbsp;<a href="https://stackoverflow.com/users/17330029"><img align="left" height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=17330029&hide=border" alt="danieltsiang" /></a></p>
