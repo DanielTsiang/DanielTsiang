@@ -20,7 +20,7 @@ All of my projects are available at [danieltsiang.github.io](https://danieltsian
 
 <h4> 🌱 Some other things I'm learning: </h4>
 
-![TypeScript](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logoColor=white)
 
 ---
 <div align="center">
