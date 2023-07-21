@@ -25,8 +25,21 @@ All of my projects are available at [danieltsiang.github.io](https://danieltsian
 ---
 <div align="center">
 
+<!--START_SECTION:waka-->
+
+```txt
+From: 19 June 2023 - To: 19 July 2023
+
+Java                             ███████████████▒░░░░░░░░░   61.47 %
+Python                           ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+SQL                              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 %
+TypeScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+YAML                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+```
+
+<!--END_SECTION:waka-->
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en) &nbsp;
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danieltsiang&show_icons=true&theme=transparent&locale=en&layout=compact)
 
 [![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=17330029)](https://stackoverflow.com/users/17330029)
 
