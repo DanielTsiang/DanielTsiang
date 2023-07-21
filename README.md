@@ -23,9 +23,11 @@ All of my projects are available at [danieltsiang.github.io](https://danieltsian
 ![TypeScript](https://img.shields.io/badge/LangChain-%23007ACC.svg?style=for-the-badge&logoColor=white)
 
 ---
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltsiang&show_icons=true&locale=en&layout=compact" alt="danieltsiang" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en) &nbsp;
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=danieltsiang&show_icons=true&theme=transparent&locale=en&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&locale=en" alt="danieltsiang" /></p>
+[![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=17330029)](https://stackoverflow.com/users/17330029)
 
-<p>&nbsp;<a href="https://stackoverflow.com/users/17330029"><img align="left" height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=17330029&hide=border" alt="danieltsiang" /></a></p>
+</div>
