@@ -25,13 +25,13 @@ All of my projects are available at [danieltsiang.github.io](https://danieltsian
 ---
 <div align="center">
 
-<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/eb437652-2038-4b2c-ba74-cb424152e69f.svg">
-  <img src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/eb437652-2038-4b2c-ba74-cb424152e69f.svg?&kill_cache=1" alt="Coding Activity Table">
+<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/2dfd244a-2239-486c-8c12-4f707b34cf1b.svg">
+  <img src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/2dfd244a-2239-486c-8c12-4f707b34cf1b.svg?&kill_cache=1" alt="Coding Activity Table">
 </a>
 <br><br>
 
-<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/b51d8842-bab3-40d1-b7a6-9d33075bff46.svg">
-  <img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/b51d8842-bab3-40d1-b7a6-9d33075bff46.svg?&kill_cache=1" alt="Coding Languages">
+<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/e2a9cee9-f0e5-4349-a61a-a0ab030d2fdf.svg">
+  <img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/e2a9cee9-f0e5-4349-a61a-a0ab030d2fdf.svg?&kill_cache=1" alt="Coding Languages">
 </a>
 <br><br>
 
