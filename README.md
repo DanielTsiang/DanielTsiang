@@ -24,13 +24,18 @@ All of my projects are available at [danieltsiang.github.io](https://danieltsian
 
 ---
 <div align="center">
-  
-<img src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/eb437652-2038-4b2c-ba74-cb424152e69f.svg?&kill_cache=1" alt="Coding Activity Table">
-<br><br>
-<img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/34b91428-5fec-4008-aac3-12bed7b8b2cf.svg?&kill_cache=1" alt="Languages">
+
+<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/eb437652-2038-4b2c-ba74-cb424152e69f.svg">
+  <img src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/eb437652-2038-4b2c-ba74-cb424152e69f.svg?&kill_cache=1" alt="Coding Activity Table">
+</a>
 <br><br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en&kill_cache=1)
+<a href="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/b51d8842-bab3-40d1-b7a6-9d33075bff46.svg">
+  <img height="400" src="https://wakatime.com/share/@f08fa434-e811-4860-88bb-76496c491cb3/b51d8842-bab3-40d1-b7a6-9d33075bff46.svg?&kill_cache=1" alt="Coding Languages">
+</a>
+<br><br>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en&kill_cache=1)](https://github-readme-stats.vercel.app/api?username=danieltsiang&show_icons=true&theme=transparent&locale=en)
 <br><br>
 [![Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user=17330029&kill_cache=1)](https://stackoverflow.com/users/17330029)
 
